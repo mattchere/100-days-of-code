@@ -19,3 +19,12 @@
 
 **Link(s) to work:**
 [Last Commit - Personal Portfolio](https://github.com/mattchere/personal-portfolio/commit/974c9bbeb31c20b4d9e8075e18c2c9ded3cc947a)
+
+### Day 3: August 2, 2017
+
+**Today's Progress:** Worked on the FCC personal portfolio page
+
+**Thoughts:** Didn't get as much time as I wanted today but I was able to implement social media links and learn a lot about plugins that extend the Bootstrap framework. I'm getting more used to Googling and finding what I need to know or use to get the result that I want as well.
+
+**Link(s) to work:**
+[Last Commit - Personal Portfolio](https://github.com/mattchere/personal-portfolio/commit/7aac8afec1cb428f4aa2d6bdb5de013bc7c0f5ae)
