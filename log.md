@@ -43,3 +43,16 @@
 [Personal Portfolio (Surge)](http://mattchere.surge.sh/)   
 
 [Personal Portfolio (Codepen)](https://codepen.io/mattchere/pen/rzMqWw)   
+
+### Day 5: August 4, 2017
+
+**Today's Progress:** Finished the FCC Random Quote Machine page
+
+**Thoughts:** First time using Ajax in a project, and whilst I had some initial struggles it felt pretty natural to use. Getting a much better grasp of how JavaScript actually affects web pages in general as well. Proud of my GoT quote machine!
+
+**Link(s) to work:**   
+[Last Commit - Random Quote Machine](https://github.com/mattchere/random-quote/commit/f751fd56f1084fed6723aa0129dc4217d4222513)   
+
+[Random Quote Machine (Surge)](http://got-quotes.surge.sh/)   
+
+[Random Quote Machine (Codepen)](https://codepen.io/mattchere/pen/prNVLm)   
