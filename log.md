@@ -56,3 +56,12 @@
 [Random Quote Machine (Surge)](http://got-quotes.surge.sh/)   
 
 [Random Quote Machine (Codepen)](https://codepen.io/mattchere/pen/prNVLm)   
+
+### Day 6: August 4, 2017
+
+**Today's Progress:** Worked on FCC Local Weather App page
+
+**Thoughts:** Spent a lot of time reading and a bit (my daily hour) of time coding today. Read up on APIs and how keys work, and some of it was a bit overwhelming in terms of how much I still don't know, but I feel that every time I revisit a concept a little bit later I understand it a whole lot more so I'm hoping that continues for all the things I've encountered, or am yet to encounter on my journey.
+
+**Link(s) to work:**   
+[Last Commit - Local Weather App](https://github.com/mattchere/local-weather/commit/c023cbf64bfe40580dcea32b638e8e42bbc4be2a)   
