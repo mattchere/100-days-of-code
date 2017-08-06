@@ -57,7 +57,7 @@
 
 [Random Quote Machine (Codepen)](https://codepen.io/mattchere/pen/prNVLm)   
 
-### Day 6: August 4, 2017
+### Day 6: August 5, 2017
 
 **Today's Progress:** Worked on FCC Local Weather App page
 
@@ -65,3 +65,14 @@
 
 **Link(s) to work:**   
 [Last Commit - Local Weather App](https://github.com/mattchere/local-weather/commit/c023cbf64bfe40580dcea32b638e8e42bbc4be2a)   
+
+### Day 7: August 6, 2017
+
+**Today's Progress:** Finished the FCC Local Weather App page
+
+**Thoughts:** Read up (and applied) a lot of jQuery notation. I decided not to use Bootstrap for this one just to try it out without it. It required a lot more manual CSS tweaking, but I was still able to figure it out which was great. This was the most JavaScript I've written so far but it was fairly manageable.
+
+**Link(s) to work:**   
+[Last Commit - Local Weather App](https://github.com/mattchere/local-weather/commit/b2ead61dcbb2bcec89eb999ac0c37d5d63815d5a)   
+[Local Weather App (Surge)](https://a-localweather-app.surge.sh)   
+[Local Weather App (Codepen)](https://codepen.io/mattchere/pen/oeBNPv)   
