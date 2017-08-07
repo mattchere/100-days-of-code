@@ -76,3 +76,12 @@
 [Last Commit - Local Weather App](https://github.com/mattchere/local-weather/commit/b2ead61dcbb2bcec89eb999ac0c37d5d63815d5a)   
 [Local Weather App (Surge)](https://a-localweather-app.surge.sh)   
 [Local Weather App (Codepen)](https://codepen.io/mattchere/pen/oeBNPv)   
+
+### Day 8: August 7, 2017
+
+**Today's Progress:** Worked on Wikipedia Viewer page
+
+**Thoughts:** Didn't get as much done today, just worked on the basic template and messed around with CSS styling. I still struggle with using CSS properly and creating nice designs on the front end, but I'm working on it.
+
+**Link(s) to work:**   
+[Last Commit - Wikipedia Viewer](https://github.com/mattchere/wikipedia-viewer/commit/11b43246286c2e8c24054e6ccbaf9a5b53262eee)
