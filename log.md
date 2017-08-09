@@ -85,3 +85,23 @@
 
 **Link(s) to work:**   
 [Last Commit - Wikipedia Viewer](https://github.com/mattchere/wikipedia-viewer/commit/11b43246286c2e8c24054e6ccbaf9a5b53262eee)
+
+### Day 9: August 8, 2017
+
+**Today's Progress:** Worked on Wikipedia Viewer page
+
+**Thoughts:** Finished the full functionality. Learnt a lot from messing around with Wikipedia's API, much more complex than anything I've used so far. Just the styling left for tomorrow.
+
+**Link(s) to work:**   
+[Last Commit - Wikipedia Viewer](https://github.com/mattchere/wikipedia-viewer/commit/02a0e21a10c7108466d986fb4297fa791e1083bf)
+
+### Day 10: August 9, 2017
+
+**Today's Progress:** Finished Wikipedia Viewer page
+
+**Thoughts:** Did my final styling! I honestly feel most proud of this project so far compared to all the rest. I think it's basic in styling but it looks okay and I'm really happy about that. 10% down!
+
+**Link(s) to work:**   
+[Last Commit - Wikipedia Viewer](https://github.com/mattchere/wikipedia-viewer/commit/df7b8a08da21dfeaa479970ceffe28d516bd450d)
+[Wikipedia Viewer (Surge)](http://mattchere-wikipedia-viewer.surge.sh/)   
+[Wikipedia Viewer (Codepen)](https://codepen.io/mattchere/pen/GvmMMy)  
