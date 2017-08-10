@@ -105,3 +105,12 @@
 [Last Commit - Wikipedia Viewer](https://github.com/mattchere/wikipedia-viewer/commit/df7b8a08da21dfeaa479970ceffe28d516bd450d)
 [Wikipedia Viewer (Surge)](http://mattchere-wikipedia-viewer.surge.sh/)   
 [Wikipedia Viewer (Codepen)](https://codepen.io/mattchere/pen/GvmMMy)  
+
+### Day 10: August 9, 2017
+
+**Today's Progress:** Worked on Twitch Viewer page
+
+**Thoughts:** Did all of the functionality and most of the styling for the page. Struggling a little bit with element positioning but otherwise it feels like this project wasn't too difficult, just some parsing of JSON and that's about it. I'm excited to go on to the advanced problems! I can imagine those being much harder but I feel like I'm ready for the challenge.
+
+**Link(s) to work:**   
+[Last Commit - Twitch Viewer](https://github.com/mattchere/twitch-viewer/commit/7b2d1f0a133df4a54bb70c3c6f173529cfc3431a)
