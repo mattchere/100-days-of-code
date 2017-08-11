@@ -106,7 +106,7 @@
 [Wikipedia Viewer (Surge)](http://mattchere-wikipedia-viewer.surge.sh/)   
 [Wikipedia Viewer (Codepen)](https://codepen.io/mattchere/pen/GvmMMy)  
 
-### Day 10: August 9, 2017
+### Day 11: August 10, 2017
 
 **Today's Progress:** Worked on Twitch Viewer page
 
@@ -114,3 +114,15 @@
 
 **Link(s) to work:**   
 [Last Commit - Twitch Viewer](https://github.com/mattchere/twitch-viewer/commit/7b2d1f0a133df4a54bb70c3c6f173529cfc3431a)
+
+### Day 12: August 11, 2017
+
+**Today's Progress:** Finished Twitch Viewer page, Worked on JavaScript Calculator
+
+**Thoughts:** Polished up my Twitch Viewer page, and I'm mostly happy with it. I started on the JavaScript calculator but spent a decent amount of time just messing around with how to position the buttons correctly on the calculator. The equals button height spanning two rows gave me a lot of problems but I eventually worked it out. The hard part starts tomorrow, with the actual calculator functionality, but I think I have some ideas.
+
+**Link(s) to work:**   
+[Last Commit - JavaScript Calculator](https://github.com/mattchere/javascript-calculator/commit/66842bc89e23e7075004f229c956ad9ef7fa2704)   
+[Last Commit - Twitch Viewer](https://github.com/mattchere/twitch-viewer/commit/102768c48f919667b54b0e5cab03fbdb3450bcda)   
+[Twitch Viewer (Surge)](http://mattchere-twitch-viewer.surge.sh)   
+[Twitch Viewer (Codepen)](https://codepen.io/mattchere/pen/gxRwzr)   
