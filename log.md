@@ -8,9 +8,7 @@
 
 **Link(s) to work:**   
 [Last Commit - Tribute Page](https://github.com/mattchere/tribute/commit/5b697168d7094e3907526c09c42a73d1b80dc920)   
-
 [Tribute Page (Surge)](http://miyamototribute.surge.sh/)   
-
 [Tribute Page (Codepen)](https://codepen.io/mattchere/pen/JyGZbq/)   
 
 ### Day 2: August 1, 2017
@@ -39,9 +37,7 @@
 
 **Link(s) to work:**   
 [Last Commit - Personal Portfolio](https://github.com/mattchere/personal-portfolio/commit/d5b8dc39a965969ce1974acb45033afee9611bfa)   
-
 [Personal Portfolio (Surge)](http://mattchere.surge.sh/)   
-
 [Personal Portfolio (Codepen)](https://codepen.io/mattchere/pen/rzMqWw)   
 
 ### Day 5: August 4, 2017
@@ -52,9 +48,7 @@
 
 **Link(s) to work:**   
 [Last Commit - Random Quote Machine](https://github.com/mattchere/random-quote/commit/f751fd56f1084fed6723aa0129dc4217d4222513)   
-
 [Random Quote Machine (Surge)](http://got-quotes.surge.sh/)   
-
 [Random Quote Machine (Codepen)](https://codepen.io/mattchere/pen/prNVLm)   
 
 ### Day 6: August 5, 2017
@@ -102,7 +96,7 @@
 **Thoughts:** Did my final styling! I honestly feel most proud of this project so far compared to all the rest. I think it's basic in styling but it looks okay and I'm really happy about that. 10% down!
 
 **Link(s) to work:**   
-[Last Commit - Wikipedia Viewer](https://github.com/mattchere/wikipedia-viewer/commit/df7b8a08da21dfeaa479970ceffe28d516bd450d)
+[Last Commit - Wikipedia Viewer](https://github.com/mattchere/wikipedia-viewer/commit/df7b8a08da21dfeaa479970ceffe28d516bd450d)   
 [Wikipedia Viewer (Surge)](http://mattchere-wikipedia-viewer.surge.sh/)   
 [Wikipedia Viewer (Codepen)](https://codepen.io/mattchere/pen/GvmMMy)  
 
@@ -126,3 +120,15 @@
 [Last Commit - Twitch Viewer](https://github.com/mattchere/twitch-viewer/commit/102768c48f919667b54b0e5cab03fbdb3450bcda)   
 [Twitch Viewer (Surge)](http://mattchere-twitch-viewer.surge.sh)   
 [Twitch Viewer (Codepen)](https://codepen.io/mattchere/pen/gxRwzr)   
+
+
+### Day 13: August 12, 2017
+
+**Today's Progress:** Finished JavaScript Calculator
+
+**Thoughts:** Did a lot today and finished the JavaScript calculator! This took so long and I know my code is not particularly clean or easy to read, but I actually got it working pretty well! Had to clear out lots of bugs because of the calculator's functionality and just the sheer number of different edge cases. It took me a while but I'm proud of how it looks and how it works as well.
+
+**Link(s) to work:**   
+[Last Commit - JavaScript Calculator](https://github.com/mattchere/javascript-calculator/commit/452f9c060dd7d7f0df2e6b9dc1bdfe6bb465a982)   
+[JavaScript Calculator (Surge)](http://mattchere-js-calc.surge.sh)   
+[JavaScript Calculator (Codepen)](https://codepen.io/mattchere/pen/jLLaqJ)   
