@@ -133,11 +133,22 @@
 [JavaScript Calculator (Surge)](http://mattchere-js-calc.surge.sh)   
 [JavaScript Calculator (Codepen)](https://codepen.io/mattchere/pen/jLLaqJ)   
 
-### Day 13: August 12, 2017
+### Day 14: August 13, 2017
 
 **Today's Progress:** Worked on Pomodoro Clock
 
 **Thoughts:** I sped through the pomodoro clock exercise, almost implementing the whole functionality today! I have been looking forward to this particular project for a while because pomodoros have really increased my productivity ever since I began doing them 2 months ago. I really am feeling the increased knowledge of JavaScript from doing previous projects (especially the calculator). I think I'll be able to finish this tomorrow, way ahead of my initial expectations!
 
 **Link(s) to work:**   
-[Last Commit - Pomodoro Clock](https://github.com/mattchere/pomodoro-clock/commit/1c617ed68c740e3ee6e9b2f002200a2774f2b1fc)   
+[Last Commit - Pomodoro Clock](https://github.com/mattchere/pomodoro-clock/commit/1c617ed68c740e3ee6e9b2f002200a2774f2b1fc)  
+
+### Day 15: August 14, 2017
+
+**Today's Progress:** Finished Pomodoro Clock
+
+**Thoughts:** This one was really fun. It wasn't too difficult to make and I feel I did a much better job of program structure than the last challenge (although, it is a bit spaghetti code-like I think). Next few days will be busy but I'll continue to push on through to the next project, Tic Tac Toe!
+
+**Link(s) to work:**    
+[Last Commit - Pomodoro Clock](https://github.com/mattchere/pomodoro-clock/commit/0c85080f61c4bcd1316eb05b1d8000c4407894ed)   
+[Pomodoro Clock (Surge)](http://mattchere-pomo-clock.surge.sh/)   
+[Pomodoro Clock (Codepen)](https://codepen.io/mattchere/pen/rzGGRR)   
