@@ -151,4 +151,13 @@
 **Link(s) to work:**    
 [Last Commit - Pomodoro Clock](https://github.com/mattchere/pomodoro-clock/commit/0c85080f61c4bcd1316eb05b1d8000c4407894ed)   
 [Pomodoro Clock (Surge)](http://mattchere-pomo-clock.surge.sh/)   
-[Pomodoro Clock (Codepen)](https://codepen.io/mattchere/pen/rzGGRR)   
+[Pomodoro Clock (Codepen)](https://codepen.io/mattchere/pen/rzGGRR) 
+
+### Day 16: August 15, 2017
+
+**Today's Progress:** Worked on Tic Tac Toe
+
+**Thoughts:** Spent a while positioning elements to set the layout of this game. I don't feel that I used the best method for this task, but it works nonetheless. I haven't actually started to implement any of the real core of the game yet, mostly it has been styling it up to look good, and I'll be working on the functionality tomorrow. Hopefully there aren't too many problems but we'll see when I start it tomorrow.
+
+**Link(s) to work:**    
+[Last Commit - Tic Tac Toe](https://github.com/mattchere/tic-tac-toe/commit/b41d52f5eda8bda41dc91bdee7b8d1b080f5b706)  
