@@ -161,3 +161,12 @@
 
 **Link(s) to work:**    
 [Last Commit - Tic Tac Toe](https://github.com/mattchere/tic-tac-toe/commit/b41d52f5eda8bda41dc91bdee7b8d1b080f5b706)  
+
+### Day 17: August 16, 2017
+
+**Today's Progress:** Worked on Tic Tac Toe
+
+**Thoughts:** Spent some time making the functionality work. Ran into some problems but I think I'm almost at the point where two-player functionality is complete. Once that's done I'll be implementing the computer AI, which will hopefully be tomorrow.
+
+**Link(s) to work:**    
+[Last Commit - Tic Tac Toe](https://github.com/mattchere/tic-tac-toe/commit/08697a073c333807ae049b61b26dfbcb178f721e)   
