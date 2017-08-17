@@ -170,3 +170,12 @@
 
 **Link(s) to work:**    
 [Last Commit - Tic Tac Toe](https://github.com/mattchere/tic-tac-toe/commit/08697a073c333807ae049b61b26dfbcb178f721e)   
+
+### Day 18: August 17, 2017
+
+**Today's Progress:** Worked on Tic Tac Toe
+
+**Thoughts:** I'm struggling a lot with this one. Partly because I have a lot going on in my life right now but also partly because I just can't seem to figure this one out properly. I'm feeling like I'm getting nowhere and every time I try and fix one bug, another bug appears. I'll try and do this again tomorrow, but I'm tempted right now to just simply restart my JavaScript because it's really starting to look like spaghetti code and I can feel the difficulty in maintaining/extending it right now.
+
+**Link(s) to work:**    
+[Last Commit - Tic Tac Toe](https://github.com/mattchere/tic-tac-toe/commit/279c135f28f7574a8cf43526295aa3b544462de9)   
