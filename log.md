@@ -179,3 +179,12 @@
 
 **Link(s) to work:**    
 [Last Commit - Tic Tac Toe](https://github.com/mattchere/tic-tac-toe/commit/279c135f28f7574a8cf43526295aa3b544462de9)   
+
+### Day 19: August 18, 2017
+
+**Today's Progress:** Worked on Tic Tac Toe
+
+**Thoughts:** Another struggle again. I reorganised the code a little bit so it's a bit better but I'm not doing well with all the asynchronous timers. It's really frustrating and late and I'm just not getting my best cognitive power out right now. First time I've been really stuck on a project.
+
+**Link(s) to work:**    
+[Last Commit - Tic Tac Toe](https://github.com/mattchere/tic-tac-toe/commit/b30b68212e66523afbf8acbecec7d3f40572ddd1)   
