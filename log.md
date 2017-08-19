@@ -188,3 +188,14 @@
 
 **Link(s) to work:**    
 [Last Commit - Tic Tac Toe](https://github.com/mattchere/tic-tac-toe/commit/b30b68212e66523afbf8acbecec7d3f40572ddd1)   
+
+### Day 20: August 19, 2017
+
+**Today's Progress:** Finished Tic Tac Toe
+
+**Thoughts:** I'm 20% there! It was still a big challenge to work on this one today, but I felt way better about it. I rewrote all my JavaScript code from scratched and whilst it's not perfect I like its design way better than before. Definitely learnt a lot about my own perseverance through this challenge. I removed the 2 player option and just worked on the minimum user stories of playing against a computer only. It works, but the AI is completely random. I've marked it as finished because it works, but I might revisit this in the future to implement a perfect AI instead.
+
+**Link(s) to work:**    
+[Last Commit - Tic Tac Toe](https://github.com/mattchere/tic-tac-toe/commit/4f09d9c3a871ad706aee576f276428afa2c5267e)   
+[Tic Tac Toe (Surge)](http://mattchere-tictactoe.surge.sh/)   
+[Tic Tac Toe (Codepen)](https://codepen.io/mattchere/pen/EvQBEG)  
