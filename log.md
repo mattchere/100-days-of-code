@@ -199,3 +199,12 @@
 [Last Commit - Tic Tac Toe](https://github.com/mattchere/tic-tac-toe/commit/4f09d9c3a871ad706aee576f276428afa2c5267e)   
 [Tic Tac Toe (Surge)](http://mattchere-tictactoe.surge.sh/)   
 [Tic Tac Toe (Codepen)](https://codepen.io/mattchere/pen/EvQBEG)  
+
+### Day 21: August 20, 2017
+
+**Today's Progress:** Worked on Simon Game
+
+**Thoughts:** Didn't get the chance to do a lot today. I did some work on the basic template of the Simon Game and planned out how I want to do it, but other than that I haven't done much else. Hoping to work through the layout and functionality tomorrow.
+
+**Link(s) to work:**    
+[Last Commit - Simon Game](https://github.com/mattchere/simon-game/commit/eaa11d37baf01baa2bb91a33aa4d7dee579eea70)   
