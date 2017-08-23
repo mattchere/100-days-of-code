@@ -208,3 +208,32 @@
 
 **Link(s) to work:**    
 [Last Commit - Simon Game](https://github.com/mattchere/simon-game/commit/eaa11d37baf01baa2bb91a33aa4d7dee579eea70)   
+
+### Day 22: August 21, 2017
+
+**Today's Progress:** Worked on Simon Game
+
+**Thoughts:** Continued my work on the Simon Game. I only managed to finish the styling for the game, but I do think it looks pretty nice. Next step is to implement the functionality.
+
+**Link(s) to work:**   
+[Last Commit - Simon Game](https://github.com/mattchere/simon-game/commit/acc0ba222e7447d6c9ed522c56a81172f10f4478)   
+
+### Day 23: August 22, 2017
+
+**Today's Progress:** None
+
+**Thoughts:** I missed a day! Had two big assignments due today and didn't get the chance to code. I'll just have to make up for it later and do 101 days of code instead!
+
+**Link(s) to work:**   
+N/A   
+
+### Day 24: August 23, 2017
+
+**Today's Progress:** Finished Simon Game
+
+**Thoughts:** I finished the Simon Game and got my Front-End Development certificate from Free Code Camp!!! I definitely didn't expect to finish this soon but I just set aside some time and smashed this one out. The functionality turned out not to be as difficult as the calculator or tic tac toe, but I did need to learn to work with asynchronous timers better than the pomodoro clock. I'm looking to learn React now that I've finished with this certificate and am really excited to see what's next!
+
+**Link(s) to work:**   
+[Last Commit - Simon Game](https://github.com/mattchere/simon-game/commit/d59e9b7ee1fe6862afa3fbcaf7c73e66baa6dcc9)   
+[Surge](http://mattchere-simon-game.surge.sh/)   
+[Codepen](https://codepen.io/mattchere/pen/eEKVdw)
