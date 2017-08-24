@@ -237,3 +237,12 @@ N/A
 [Last Commit - Simon Game](https://github.com/mattchere/simon-game/commit/d59e9b7ee1fe6862afa3fbcaf7c73e66baa6dcc9)   
 [Surge](http://mattchere-simon-game.surge.sh/)   
 [Codepen](https://codepen.io/mattchere/pen/eEKVdw)
+
+### Day 24: August 23, 2017
+
+**Today's Progress:** Finished Codecademy's Learn ReactJS: Part I
+
+**Thoughts:** Spent the day learning React. I didn't actually get to starting a project yet because I wanted to give myself a day to read the docs and familiarise myself with how to actually use React properly, and then tomorrow I plan to finish up the tutorials and begin a project. So tomorrow will be the start of my React projects.
+
+**Link(s) to work:**   
+[Codecademy ReactJS Course](https://www.codecademy.com/learn/react-101)   
