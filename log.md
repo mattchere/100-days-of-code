@@ -238,7 +238,7 @@ N/A
 [Surge](http://mattchere-simon-game.surge.sh/)   
 [Codepen](https://codepen.io/mattchere/pen/eEKVdw)
 
-### Day 24: August 23, 2017
+### Day 25: August 24, 2017
 
 **Today's Progress:** Finished Codecademy's Learn ReactJS: Part I
 
@@ -246,3 +246,13 @@ N/A
 
 **Link(s) to work:**   
 [Codecademy ReactJS Course](https://www.codecademy.com/learn/react-101)   
+
+### Day 26: August 25, 2017
+
+**Today's Progress:** Finished Codecademy's Learn ReactJS: Part II, Worked on Markdown Previewer
+
+**Thoughts:** Finished up the React course and built the Markdown Previewer. All the functionality is done but I'll finish up the project tomorrow with the final styling. React seems pretty cool actually. It has been really fun, and pretty intuitive, to learn and I do like the way that it works. I am a bit confused on how to do styling properly though.
+
+**Link(s) to work:**   
+[Codecademy ReactJS Course](https://www.codecademy.com/learn/react-102)  
+[Github Pages](https://mattchere.github.io/markdown-previewer)  
