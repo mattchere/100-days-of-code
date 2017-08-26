@@ -254,5 +254,17 @@ N/A
 **Thoughts:** Finished up the React course and built the Markdown Previewer. All the functionality is done but I'll finish up the project tomorrow with the final styling. React seems pretty cool actually. It has been really fun, and pretty intuitive, to learn and I do like the way that it works. I am a bit confused on how to do styling properly though.
 
 **Link(s) to work:**   
+[Last Commit - Markdown Previewer](https://github.com/mattchere/markdown-previewer/commit/4e3c07063cf6610a2da034a3ec8c7f1be0827189)  
 [Codecademy ReactJS Course](https://www.codecademy.com/learn/react-102)  
-[Github Pages](https://mattchere.github.io/markdown-previewer)  
+[Markdown Previewer (Github Pages)](https://mattchere.github.io/markdown-previewer)  
+
+### Day 27: August 26, 2017
+
+**Today's Progress:** Finished Markdown Previewer, Worked on Camper Leaderboard
+
+**Thoughts:** Finished the styling on the Markdown Previewer (which honestly was not a lot of styling at all). I feel like I had nothing really left to style for the Markdown Previewer. So I started working on the Camper Leaderboard, which I've made a basic structure for. I'm really liking React so far. I don't entirely know how to do styling properly for React apps (I'm just doing normal CSS or might start using SCSS right now). Component building is pretty intuitive though. I'm a bit confused about the Flux architecture, state management with Redux and things like that, as well as getting JSON from APIs. I guess I'll just have to keep reading and exploring to see how I can figure them all out.
+
+**Link(s) to work:**   
+[Last Commit - Markdown Previewer](https://github.com/mattchere/markdown-previewer/commit/67ecd4b5478888d26ee0f01e0c24dd62f2e1f815)  
+[Markdown Previewer (Github Pages)](https://mattchere.github.io/markdown-previewer)
+[Last Commit - Camper Leaderboard](https://github.com/mattchere/camper-leaderboard/commit/014fef3233efde8501894159b8b35e4a838ee1d2)  
