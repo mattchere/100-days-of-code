@@ -268,3 +268,12 @@ N/A
 [Last Commit - Markdown Previewer](https://github.com/mattchere/markdown-previewer/commit/67ecd4b5478888d26ee0f01e0c24dd62f2e1f815)  
 [Markdown Previewer (Github Pages)](https://mattchere.github.io/markdown-previewer)
 [Last Commit - Camper Leaderboard](https://github.com/mattchere/camper-leaderboard/commit/014fef3233efde8501894159b8b35e4a838ee1d2)  
+
+### Day 28: August 27, 2017
+
+**Today's Progress:** Worked on Camper Leaderboard
+
+**Thoughts:** Finished all the functionality for the Camper Leaderboard. I feel like I might need to restructure my code and components a bit, I did feel some copy-pasting and I'm not following DRY strongly enough. I'll refactor tomorrow probably. But overall this was pretty intuitive. I think I am calling the API a bit too often too, I should change that up tomorrow as well. So the plan is, refactor components/API calls and do all the styling for this project to be complete by tomorrow.
+
+**Link(s) to work:**   
+[Last Commit - Camper Leaderboard](https://github.com/mattchere/camper-leaderboard/commit/3aa87442daa25071aff3fc43727ee2b312d1b0aa)  
