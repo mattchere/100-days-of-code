@@ -277,3 +277,12 @@ N/A
 
 **Link(s) to work:**   
 [Last Commit - Camper Leaderboard](https://github.com/mattchere/camper-leaderboard/commit/3aa87442daa25071aff3fc43727ee2b312d1b0aa)  
+
+### Day 29: August 28, 2017
+
+**Today's Progress:** Worked on Camper Leaderboard
+
+**Thoughts:** I restructured the data calls to store the data on the client side so that I don't excessively call the API. It's not the cleanest code but I think it is better to reduce API calls to once per refresh. I did some basic styling. It's not where it needs to be for the complete build but I'm getting there, didn't get that much time to work on it today. I'll finish tomorrow for the 30 day finish!
+
+**Link(s) to work:**   
+[Last Commit - Camper Leaderboard](https://github.com/mattchere/camper-leaderboard/commit/4754d6f7e437948b6aca4b199189117dc689e4b1)  
