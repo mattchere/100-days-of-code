@@ -286,3 +286,13 @@ N/A
 
 **Link(s) to work:**   
 [Last Commit - Camper Leaderboard](https://github.com/mattchere/camper-leaderboard/commit/4754d6f7e437948b6aca4b199189117dc689e4b1)  
+
+### Day 30: August 29, 2017
+
+**Today's Progress:** Finished Camper Leaderboard
+
+**Thoughts:** Did the styling for the website. Not perfect, but I do think I've gotten a much better grasp on React and how to use it properly. I'm really loving it. Really excited for the next project.
+
+**Link(s) to work:**   
+[Last Commit - Camper Leaderboard](https://github.com/mattchere/camper-leaderboard/commit/271277c070498f7cac583ca30eb2720417ce033f)  
+[Camper Leaderboard (Github Pages)](https://mattchere.github.io/camper-leaderboard/)  
