@@ -296,3 +296,12 @@ N/A
 **Link(s) to work:**   
 [Last Commit - Camper Leaderboard](https://github.com/mattchere/camper-leaderboard/commit/271277c070498f7cac583ca30eb2720417ce033f)  
 [Camper Leaderboard (Github Pages)](https://mattchere.github.io/camper-leaderboard/)  
+
+### Day 31: August 30, 2017
+
+**Today's Progress:** Worked on Recipe Box
+
+**Thoughts:** I didn't get a lot of time to work on this today. I setup the recipe box project and that's about it. Reading the user stories made me realise I need to learn about local browser storage which is something I've been wondering about. Hopefully I get the time to learn and do all that tomorrow.
+
+**Link(s) to work:**   
+[Last Commit - Recipe Box](https://github.com/mattchere/recipe-box/commit/88422c156656064934c1f75834f166122c4df45d)  
