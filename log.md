@@ -305,3 +305,21 @@ N/A
 
 **Link(s) to work:**   
 [Last Commit - Recipe Box](https://github.com/mattchere/recipe-box/commit/88422c156656064934c1f75834f166122c4df45d)  
+
+### Day 32: August 31, 2017
+
+**Today's Progress:** None
+
+**Thoughts:** I missed another day! I had an assignment due for uni and I just couldn't fit in the hour of code for today. I'll catch up soon though!
+
+**Link(s) to work:**  
+N/A 
+
+### Day 33: September 1, 2017
+
+**Today's Progress:** Worked on Recipe Box
+
+**Thoughts:** I did all the basic layout and styling for the Recipe Box. Next up is implementing the full funtionality, and then polishing the styling to look nice. I haven't had the chance to learn about local storage and think about that yet, but I will soon.
+
+**Link(s) to work:**  
+[Last Commit - Recipe Box](https://github.com/mattchere/recipe-box/commit/0e4ea9829c6fbcd83aa9bd6a38b69c6448c84559)  
