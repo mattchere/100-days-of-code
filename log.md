@@ -323,3 +323,12 @@ N/A
 
 **Link(s) to work:**  
 [Last Commit - Recipe Box](https://github.com/mattchere/recipe-box/commit/0e4ea9829c6fbcd83aa9bd6a38b69c6448c84559)  
+
+### Day 34: September 2, 2017
+
+**Today's Progress:** Worked on Recipe Box
+
+**Thoughts:** Added functionality to hide and show the ingredients. It felt like it would only be a small feature but it was actually somewhat time consuming to implement. I feel like I am grasping how to do things with a more immutable and functional programming mindset, particularly when working with React. Again, not that much time to work on it today, but tomorrow I should get the time to go all out and knock this one out.
+
+**Link(s) to work:**  
+[Last Commit - Recipe Box](https://github.com/mattchere/recipe-box/commit/eed29b2e98f161ee1eaa3978ff17d0ddb640602d)  
