@@ -332,3 +332,12 @@ N/A
 
 **Link(s) to work:**  
 [Last Commit - Recipe Box](https://github.com/mattchere/recipe-box/commit/eed29b2e98f161ee1eaa3978ff17d0ddb640602d)  
+
+### Day 35: September 3, 2017
+
+**Today's Progress:** Worked on Recipe Box
+
+**Thoughts:** Finished implementing a modal for adding recipes. First time working with React Bootstrap, and it's pretty intuitive and nice. I'm going to fix all the styling issues a little bit later; focusing purely on functionality first to get it all working well. It's turning out pretty well, but I'm working feature by feature, taking it slow so I can get it all done. Didn't have the chance to go all out and not sure I will be able to, but up next is modifying recipes.
+
+**Link(s) to work:**  
+[Last Commit - Recipe Box](https://github.com/mattchere/recipe-box/commit/a14a36f8e3591abf31026eb1fd10222935ee6697)  
