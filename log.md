@@ -341,3 +341,12 @@ N/A
 
 **Link(s) to work:**  
 [Last Commit - Recipe Box](https://github.com/mattchere/recipe-box/commit/a14a36f8e3591abf31026eb1fd10222935ee6697)  
+
+### Day 36: September 4, 2017
+
+**Today's Progress:** Worked on Recipe Box
+
+**Thoughts:** I worked on deleting recipes first due to time constraints. It wasn't too hard to do but I'm starting to feel the technical debt of cramming all my state into a single component. Maybe it would have been better to spread the state out into separate smaller components. I'm not too sure at this point really, but it's functional and working, and the editing part is the last part I think. Hopefully I can get it done tomorrow and then work on styling.
+
+**Link(s) to work:**  
+[Last Commit - Recipe Box](https://github.com/mattchere/recipe-box/commit/591e2e023a0381830e36626d2e2e5ca596f81f1c)  
