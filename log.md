@@ -350,3 +350,12 @@ N/A
 
 **Link(s) to work:**  
 [Last Commit - Recipe Box](https://github.com/mattchere/recipe-box/commit/591e2e023a0381830e36626d2e2e5ca596f81f1c)  
+
+### Day 37: September 5, 2017
+
+**Today's Progress:** Worked on Recipe Box
+
+**Thoughts:** Finished all the functionality in the recipe box task! Just need to polish up the styling and I'll be ready to host it and move on to the next project. This has been the most time consuming and complex of all the projects I've done so far, but I think it's a good precursor to learn how to make things that I want to make in React. My code is not clean at all and has one mammoth parent component, but I'll be looking to fix that by learning Flux and Redux for the next project. I also need to do local storage so I'll implement that tomorrow if I have the time.
+
+**Link(s) to work:**  
+[Last Commit - Recipe Box](https://github.com/mattchere/recipe-box/commit/3315ac5ba5348c7261a72d83c0c1b05aeed434df)  
