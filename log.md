@@ -359,3 +359,12 @@ N/A
 
 **Link(s) to work:**  
 [Last Commit - Recipe Box](https://github.com/mattchere/recipe-box/commit/3315ac5ba5348c7261a72d83c0c1b05aeed434df)  
+
+### Day 37: September 5, 2017
+
+**Today's Progress:** Worked on Recipe Box
+
+**Thoughts:** Styled up the recipe box and it's almost complete, just one more day to update local storage and I'm done. Been busy with other commitments recently, which is why I've been so slow on this, but I'm excited to finish it and move on.
+
+**Link(s) to work:**  
+[Last Commit - Recipe Box](https://github.com/mattchere/recipe-box/commit/7acea4b0bbdb0d4225ea2545959406f053da980b)  
