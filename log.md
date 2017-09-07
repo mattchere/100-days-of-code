@@ -360,7 +360,7 @@ N/A
 **Link(s) to work:**  
 [Last Commit - Recipe Box](https://github.com/mattchere/recipe-box/commit/3315ac5ba5348c7261a72d83c0c1b05aeed434df)  
 
-### Day 37: September 5, 2017
+### Day 38: September 6, 2017
 
 **Today's Progress:** Worked on Recipe Box
 
@@ -368,3 +368,13 @@ N/A
 
 **Link(s) to work:**  
 [Last Commit - Recipe Box](https://github.com/mattchere/recipe-box/commit/7acea4b0bbdb0d4225ea2545959406f053da980b)  
+
+### Day 39: September 7, 2017
+
+**Today's Progress:** Finished Recipe Box
+
+**Thoughts:** Did a quick and easy local storage fix. It's not particularly performant, but it'll do for an app like this where I sort of forgot about local storage. Finally done with this one!
+
+**Link(s) to work:**  
+[Last Commit - Recipe Box](https://github.com/mattchere/recipe-box/commit/7d6b92950645365032aa353b3e3aa956aedb196d)  
+[Recipe Box (Github Pages)](https://mattchere.github.io/recipe-box/)  
