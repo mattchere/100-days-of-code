@@ -378,3 +378,22 @@ N/A
 **Link(s) to work:**  
 [Last Commit - Recipe Box](https://github.com/mattchere/recipe-box/commit/7d6b92950645365032aa353b3e3aa956aedb196d)  
 [Recipe Box (Github Pages)](https://mattchere.github.io/recipe-box/)  
+
+### Day 40: September 8, 2017
+
+**Today's Progress:** None
+
+**Thoughts:** I got really sick and I couldn't work on anything at all today except resting and getting better.
+
+**Link(s) to work:**  
+N/A  
+
+### Day 40: September 8, 2017
+
+**Today's Progress:** Worked on Game of Life
+
+**Thoughts:** I am still really sick but I decided to take it slow and at least do something today, so I set up the project ready to start on it tomorrow, or whenever I get well enough to do so.
+
+**Link(s) to work:**  
+[Last Commit - Game of Life](https://github.com/mattchere/game-of-life/commit/dbec56e716d0b1c63b329920929b1b711b9cbce9)  
+
