@@ -379,21 +379,21 @@ N/A
 [Last Commit - Recipe Box](https://github.com/mattchere/recipe-box/commit/7d6b92950645365032aa353b3e3aa956aedb196d)  
 [Recipe Box (Github Pages)](https://mattchere.github.io/recipe-box/)  
 
-### Day 40: September 8, 2017
+### BREAK PERIOD
 
-**Today's Progress:** None
+**Dates:** September 8, 2017 - September 14, 2017
 
-**Thoughts:** I got really sick and I couldn't work on anything at all today except resting and getting better.
+**Reasoning:** I got really sick and I was in bed for many days during this week. As a result, I took a 1 week break to focus fully on recovery and am postponing all days within this period. The next day to resume the challenge will be September 15, 2017, starting again at day 40.
 
 **Link(s) to work:**  
 N/A  
 
-### Day 40: September 8, 2017
+### Day 40: September 15, 2017
 
 **Today's Progress:** Worked on Game of Life
 
-**Thoughts:** I am still really sick but I decided to take it slow and at least do something today, so I set up the project ready to start on it tomorrow, or whenever I get well enough to do so.
+**Thoughts:** Took it slow as I'm getting back into the swing of things. Worked on the basic template, added the components I wanted but not all of the data yet. I'm going to try and use Redux for this as well because I want to learn how to effectively manage state in React.
 
 **Link(s) to work:**  
-[Last Commit - Game of Life](https://github.com/mattchere/game-of-life/commit/dbec56e716d0b1c63b329920929b1b711b9cbce9)  
+[Last Commit - Game of Life](https://github.com/mattchere/game-of-life/commit/0739a55d9fc18aa051ececfb60ca5587ca7bddbb)  
 
