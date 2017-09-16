@@ -397,3 +397,12 @@ N/A
 **Link(s) to work:**  
 [Last Commit - Game of Life](https://github.com/mattchere/game-of-life/commit/0739a55d9fc18aa051ececfb60ca5587ca7bddbb)  
 
+### Day 41: September 16, 2017
+
+**Today's Progress:** Worked on Game of Life
+
+**Thoughts:** Worked on the basic layout of the board. Had some trouble with the vertical gap spacing between the rows of the board, looking to fix that for tomorrow.
+
+**Link(s) to work:**  
+[Last Commit - Game of Life](https://github.com/mattchere/game-of-life/commit/575976c8946fedecdc97b031bf5ea02f17432cd7)  
+
