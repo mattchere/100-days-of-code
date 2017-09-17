@@ -406,3 +406,12 @@ N/A
 **Link(s) to work:**  
 [Last Commit - Game of Life](https://github.com/mattchere/game-of-life/commit/575976c8946fedecdc97b031bf5ea02f17432cd7)  
 
+### Day 42: September 17, 2017
+
+**Today's Progress:** Worked on Game of Life
+
+**Thoughts:** Fixed the grid layout and implemented a colour change on click. The only thing is that it's not using Redux even though I wanted to start using Redux for this one. I'll refactor it tomorrow.
+
+**Link(s) to work:**  
+[Last Commit - Game of Life](https://github.com/mattchere/game-of-life/commit/43fbce9763f743fcf8b505252799fcae0d434dd4)  
+
