@@ -415,3 +415,21 @@ N/A
 **Link(s) to work:**  
 [Last Commit - Game of Life](https://github.com/mattchere/game-of-life/commit/43fbce9763f743fcf8b505252799fcae0d434dd4)  
 
+### Day 43: September 18, 2017
+
+**Today's Progress:** Worked on Game of Life
+
+**Thoughts:** Worked on generate the next generation. I added in some helper functions to make it easier to generate the next generation, but I haven't implemented or tested them properly yet.
+
+**Link(s) to work:**  
+[Last Commit - Game of Life](https://github.com/mattchere/game-of-life/commit/d5af267d7e40e98aba01b8e86a1a456402dd3a41)  
+
+### Day 44: September 19, 2017
+
+**Today's Progress:** Worked on Game of Life
+
+**Thoughts:** Added the full functionality to generate the next generation, but there appears to be a bug in my generating neighbours function. I couldn't figure it out today but I hope that when I figure it out tomorrow it will properly run.
+
+**Link(s) to work:**  
+[Last Commit - Game of Life](https://github.com/mattchere/game-of-life/commit/2d9e58af608ec4b528e52d6c22b6e3f199f8b85b)  
+
