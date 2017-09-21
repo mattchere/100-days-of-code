@@ -433,3 +433,22 @@ N/A
 **Link(s) to work:**  
 [Last Commit - Game of Life](https://github.com/mattchere/game-of-life/commit/2d9e58af608ec4b528e52d6c22b6e3f199f8b85b)  
 
+### Day 45: September 20, 2017
+
+**Today's Progress:** Worked on Game of Life
+
+**Thoughts:** Fixed all the bugs and implemented all the buttons. This one was a pretty fun one to do mathematically, and it turned out very nice. It's easy to show off and it wasn't a breeze to make, but still something that felt manageable. Just need to finish up my styling and I'll be ready to move on to the next one.
+
+**Link(s) to work:**  
+[Last Commit - Game of Life](https://github.com/mattchere/game-of-life/commit/c3aaf19fca6fea53fc450b0b5f343e5bb1ad6648)  
+
+### Day 46: September 21, 2017
+
+**Today's Progress:** Finished Game of Life
+
+**Thoughts:** Finished the Game of Life. I really liked this one. I had some issues initially but once I ironed them out it was pretty straightforward from there, and at the same time visually appealing. The next one is a really big project, with the whole rogue-like game, so I might go on a tangent or I might just start it, we'll see from tomorrow!
+
+**Link(s) to work:**  
+[Game of Life (Github Pages)](https://mattchere.github.io/game-of-life/)   
+[Last Commit - Game of Life](https://github.com/mattchere/game-of-life/commit/cf15bac611b570f18d4290f2facf95357be9174f)  
+
