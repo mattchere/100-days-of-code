@@ -452,3 +452,12 @@ N/A
 [Game of Life (Github Pages)](https://mattchere.github.io/game-of-life/)   
 [Last Commit - Game of Life](https://github.com/mattchere/game-of-life/commit/cf15bac611b570f18d4290f2facf95357be9174f)  
 
+### Day 47: September 22, 2017
+
+**Today's Progress:** Worked on Roguelike
+
+**Thoughts:** Started the Roguelike Dungeon Crawler project (hereby known as Roguelike). Honesty I'm a bit daunted by this one and how many user stories there are. I'm not entirely sure how I'm going to work out the game mechanics and make it work out well. I am going to for sure use redux for this one though, so I'll be implementing that tomorrow once I read some tutorials. Hopefully I can work this one out.
+
+**Link(s) to work:**  
+[Last Commit - Roguelike](https://github.com/mattchere/roguelike/commit/744eb8787a11ac23f0be178fe99dc65006f58290)  
+
