@@ -461,3 +461,11 @@ N/A
 **Link(s) to work:**  
 [Last Commit - Roguelike](https://github.com/mattchere/roguelike/commit/744eb8787a11ac23f0be178fe99dc65006f58290)  
 
+### Day 48: September 23, 2017
+
+**Today's Progress:** Worked on Roguelike
+
+**Thoughts:** I made some infrastructure to work with for the screen. I'm still trying to read up on Redux, but I did implement some basic structure and install the dependencies for it. Hopefully I can get something to show tomorrow and then work on the actual game mechanics.
+
+**Link(s) to work:**  
+[Last Commit - Roguelike](https://github.com/mattchere/roguelike/commit/7c2e4b43c46d3ffaab3a0bc3e84484b14ac303e4)  
