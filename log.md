@@ -469,3 +469,12 @@ N/A
 
 **Link(s) to work:**  
 [Last Commit - Roguelike](https://github.com/mattchere/roguelike/commit/7c2e4b43c46d3ffaab3a0bc3e84484b14ac303e4)  
+
+### Day 49: September 24, 2017
+
+**Today's Progress:** Worked on Roguelike
+
+**Thoughts:** Didn't push to Github today, but I researched a lot about Redux and tried to modify my code to match the Redux structure. At the moment it seems simple in concept but not so simple in implementation. I think I'm still just trying to get my head around how it works, and once I do it should be easier to figure out.
+
+**Link(s) to work:**  
+N/A
