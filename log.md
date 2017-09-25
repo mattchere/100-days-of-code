@@ -478,3 +478,13 @@ N/A
 
 **Link(s) to work:**  
 N/A
+
+### Day 50: September 25, 2017
+
+**Today's Progress:** Worked on Roguelike
+
+**Thoughts:** Setup the cell positioning for the screen, ready for when I create all the maps and project what I want to the screen as well. I'm still not entirely sure how I'm going to do this, especially with Redux, but it's starting to look a lot more clear than it did before. Although it is day 50, this does include my 2 missed days, so I'm going to count tomorrow as the halfway mark of my 100 days challenge.
+
+**Link(s) to work:**  
+[Last Commit - Roguelike](https://github.com/mattchere/roguelike/commit/85e6476f00d0b1f89b5496c4914b36a9ed1fb1ee)  
+
