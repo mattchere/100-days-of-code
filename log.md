@@ -483,8 +483,17 @@ N/A
 
 **Today's Progress:** Worked on Roguelike
 
-**Thoughts:** Setup the cell positioning for the screen, ready for when I create all the maps and project what I want to the screen as well. I'm still not entirely sure how I'm going to do this, especially with Redux, but it's starting to look a lot more clear than it did before. Although it is day 50, this does include my 2 missed days, so I'm going to count tomorrow as the halfway mark of my 100 days challenge.
+**Thoughts:** Setup the cell positioning for the screen, ready for when I create all the maps and project what I want to the screen as well. I'm still not entirely sure how I'm going to do this, especially with Redux, but it's starting to look a lot more clear than it did before. Although it is day 50, this does include my 2 missed days, so I'm going to count day 52 as the halfway mark of my 100 days challenge since that is when I have truly completed half the challenge.
 
 **Link(s) to work:**  
 [Last Commit - Roguelike](https://github.com/mattchere/roguelike/commit/85e6476f00d0b1f89b5496c4914b36a9ed1fb1ee)  
+
+### Day 51: September 26, 2017
+
+**Today's Progress:** Worked on Roguelike
+
+**Thoughts:** Changed up the map to be bigger than the previous map. I also adjusted the screen so that now it only displays a given portion of the map. This will make it easy to simulate movement, where I can simply change which portion of the map to show to move in a particular direction.
+
+**Link(s) to work:**  
+[Last Commit - Roguelike](https://github.com/mattchere/roguelike/commit/aed5cbe266a7208446ccbc000297ef6759579310)  
 
