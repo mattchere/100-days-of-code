@@ -497,3 +497,12 @@ N/A
 **Link(s) to work:**  
 [Last Commit - Roguelike](https://github.com/mattchere/roguelike/commit/aed5cbe266a7208446ccbc000297ef6759579310)  
 
+### Day 52: September 27, 2017
+
+**Today's Progress:** Worked on Roguelike
+
+**Thoughts:** Didn't have that much time today so I simply extended the map to have more rooms and added some actions that I will be using when I connect the React app to the Redux store. I'll be looking to implement Redux tomorrow. Finally at the halfway point with 50 days complete! It has been an amazing 50 days and I am looking forward to another 50 more, as I've learnt so much so far.
+
+**Link(s) to work:**  
+[Last Commit - Roguelike](https://github.com/mattchere/roguelike/commit/57c3fe183f0a5f894b72b92e930281b03b4fcfc0)  
+
