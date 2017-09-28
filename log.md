@@ -506,3 +506,12 @@ N/A
 **Link(s) to work:**  
 [Last Commit - Roguelike](https://github.com/mattchere/roguelike/commit/57c3fe183f0a5f894b72b92e930281b03b4fcfc0)  
 
+### Day 53: September 28, 2017
+
+**Today's Progress:** Worked on Roguelike
+
+**Thoughts:** Added some actions and created some reducers for state management with Redux today. Haven't gotten to a functional stage yet but I think I'm pretty close to getting there, just need to implement my container components as well and I should be able to get something working.
+
+**Link(s) to work:**  
+[Last Commit - Roguelike](https://github.com/mattchere/roguelike/commit/bf328fc243a8d305c89862b24b399d4f18d85c09)  
+
