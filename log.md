@@ -515,3 +515,12 @@ N/A
 **Link(s) to work:**  
 [Last Commit - Roguelike](https://github.com/mattchere/roguelike/commit/bf328fc243a8d305c89862b24b399d4f18d85c09)  
 
+### Day 54: September 29, 2017
+
+**Today's Progress:** Worked on Roguelike
+
+**Thoughts:** Didn't have time to work on containers today, but I created another map so that I can test switching backgrounds as well. I'm looking to work through a Redux tutorial tomorrow so I can get better at understanding how it's works.
+
+**Link(s) to work:**  
+[Last Commit - Roguelike](https://github.com/mattchere/roguelike/commit/cd5968dcf0eed94fa9b615f8828ad3370139070b)  
+
