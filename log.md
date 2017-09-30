@@ -524,3 +524,12 @@ N/A
 **Link(s) to work:**  
 [Last Commit - Roguelike](https://github.com/mattchere/roguelike/commit/cd5968dcf0eed94fa9b615f8828ad3370139070b)  
 
+### Day 55: September 30, 2017
+
+**Today's Progress:** Worked on Roguelike
+
+**Thoughts:** Didn't have time again to finish enough of the tutorial to implement the containers. Just fixed a bug and relooked at maps. Tomorrow for sure!
+
+**Link(s) to work:**  
+[Last Commit - Roguelike](https://github.com/mattchere/roguelike/commit/cd5968dcf0eed94fa9b615f8828ad3370139070b)  
+
