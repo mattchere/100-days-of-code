@@ -533,3 +533,12 @@ N/A
 **Link(s) to work:**  
 [Last Commit - Roguelike](https://github.com/mattchere/roguelike/commit/cd5968dcf0eed94fa9b615f8828ad3370139070b)  
 
+### Day 56: October 1, 2017
+
+**Today's Progress:** Worked on Redux tutorial
+
+**Thoughts:** So I feel I'm definitely not ready to build a complex React Redux app yet, so I'm working on a tutorial to get me to that stage!
+
+**Link(s) to work:**  
+[Redux Tutorial](https://egghead.io/courses/getting-started-with-redux)  
+
