@@ -542,3 +542,13 @@ N/A
 **Link(s) to work:**  
 [Redux Tutorial](https://egghead.io/courses/getting-started-with-redux)  
 
+### Day 57: October 2, 2017
+
+**Today's Progress:** Finished Voucher App
+
+**Thoughts:** Today I took a break from Roguelike and the Redux tutorial to build a small React app that lets me display voucher titles and descriptions. This was used as part of a present for someone in my life, but does display the rapid prototyping potential of React. Was a great break to make something small!
+
+**Link(s) to work:**  
+[Last Commit - Voucher App](https://github.com/mattchere/voucher-app/commit/2f188492939445aa1bc85bc427a4ed3438e119c7)  
+[Voucher App (Github Pages)](https://mattchere.github.io/voucher-app/)   
+
