@@ -552,3 +552,11 @@ N/A
 [Last Commit - Voucher App](https://github.com/mattchere/voucher-app/commit/2f188492939445aa1bc85bc427a4ed3438e119c7)  
 [Voucher App (Github Pages)](https://mattchere.github.io/voucher-app/)   
 
+### Day 58: October 3, 2017
+
+**Today's Progress:** Finished Redux tutorial
+
+**Thoughts:** I definitely understand way more about Redux now and I think I'll be ready to work on it tomorrow!
+
+**Link(s) to work:**  
+[Redux Tutorial](https://egghead.io/courses/getting-started-with-redux)  
