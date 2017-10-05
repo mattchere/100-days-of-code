@@ -560,3 +560,21 @@ N/A
 
 **Link(s) to work:**  
 [Redux Tutorial](https://egghead.io/courses/getting-started-with-redux)  
+
+### Day 59: October 4, 2017
+
+**Today's Progress:** None
+
+**Thoughts:** I missed another day due to assignments! Hope to make up for it.
+
+**Link(s) to work:**  
+N/A
+
+### Day 60: October 5, 2017
+
+**Today's Progress:** Worked on Roguelike
+
+**Thoughts:** Added some actions and the container components. Definitely understanding Redux more after using it.
+
+**Link(s) to work:**  
+[Last Commit - Roguelike](https://github.com/mattchere/roguelike/commit/6aa71a811b5010d77457e166d5b35b57119cfa7d)  
