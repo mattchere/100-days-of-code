@@ -578,3 +578,12 @@ N/A
 
 **Link(s) to work:**  
 [Last Commit - Roguelike](https://github.com/mattchere/roguelike/commit/6aa71a811b5010d77457e166d5b35b57119cfa7d)  
+
+### Day 61: October 6, 2017
+
+**Today's Progress:** Worked on Roguelike
+
+**Thoughts:** Fixed up the actions so now the arrow keys can change which part of the map you're looking at! Definitely some big progress. I also made the stats part of the store and mapped it to the StatusBar, which worked out pretty well. Redux is feeling easier.
+
+**Link(s) to work:**  
+[Last Commit - Roguelike](https://github.com/mattchere/roguelike/commit/2942e4a0d069ad3fe90043b2737f352bd587aa76)  
