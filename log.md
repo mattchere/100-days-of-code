@@ -587,3 +587,12 @@ N/A
 
 **Link(s) to work:**  
 [Last Commit - Roguelike](https://github.com/mattchere/roguelike/commit/2942e4a0d069ad3fe90043b2737f352bd587aa76)  
+
+### Day 62: October 7, 2017
+
+**Today's Progress:** Worked on Django Polls App Tutorial
+
+**Thoughts:** I've decided to take a break from React and roguelike. My initial goal in starting this challenge and learning web development in general was to be able to learn how to actually make fully functional websites. Learning JavaScript and React has definitely let me do so on the front-end side, but I have been really wanting to do back-end things like linking to a database and forms for example. Because of this, I'm going to shift my focus towards the back-end for now. I've chosen Django simply because python is probably my best language, and it means less friction in just picking up a framework and understanding how the back-end works from a high-level perspective. Today I just worked through the polls tutorial in the docs, which is quite comprehensive and a bit confusing, but I think I'm sorta understanding how this works.
+
+**Link(s) to work:**  
+[Django Polls App Tutorial (Documentation)](https://docs.djangoproject.com/en/1.11/intro/tutorial01/)    
