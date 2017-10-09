@@ -605,3 +605,12 @@ N/A
 
 **Link(s) to work:**  
 [Django Polls App Tutorial #6 (Documentation)](https://docs.djangoproject.com/en/1.11/intro/tutorial06/)   
+
+### Day 64: October 9, 2017
+
+**Today's Progress:** Finished Django Polls App Tutorial
+
+**Thoughts:** Only had time to finish this tutorial, but I'll be making Django apps tomorrow!
+
+**Link(s) to work:**  
+[Django Polls App Tutorial #7 (Documentation)](https://docs.djangoproject.com/en/1.11/intro/tutorial07/)   
