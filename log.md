@@ -614,3 +614,12 @@ N/A
 
 **Link(s) to work:**  
 [Django Polls App Tutorial #7 (Documentation)](https://docs.djangoproject.com/en/1.11/intro/tutorial07/)   
+
+### Day 65: October 10, 2017
+
+**Today's Progress:** Worked on Django REST Framework Tutorial
+
+**Thoughts:** So I wanted to understand API development with Django before I moved on. I am currently working on the REST framework tutorial to make sure I can actually do back-end APIs!
+
+**Link(s) to work:**  
+[Django REST Framework Tutorial #1 (Documentation)](http://www.django-rest-framework.org/tutorial/1-serialization/)   
