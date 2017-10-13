@@ -633,3 +633,21 @@ N/A
 **Link(s) to work:**  
 [Bucketlist Tutorial](https://scotch.io/tutorials/build-a-rest-api-with-django-a-test-driven-approach-part-1)   
 [Last Commit - Bucketlist API](https://github.com/mattchere/bucketlistapi/commit/12777025efc9c24857bb80c9de8b3c24bbd17d0b)   
+
+### Day 67: October 12, 2017
+
+**Today's Progress:** Worked on Local Library
+
+**Thoughts:** I still feel like I'm struggling a bit with Django and overall back-end web development at the moment, so I'm working through Mozilla's tutorial to see if it makes things a lot clearer and easier for me to continue on my own. At the moment, it definitely is feeling like it will be sufficient for me to start my own projects after, which is what I'm hoping!
+
+**Link(s) to work:**  
+[Last Commit - Local Library](https://github.com/mattchere/locallibrary/commit/e9f7ddda3c2aacdfb19ef5c933846c91ebe52ba2)   
+
+### Day 68: October 13, 2017
+
+**Today's Progress:** Worked on Local Library
+
+**Thoughts:** I learnt a lot about models working on this tutorial. I feel like I've got enough info to do progress on my own in terms of models with my future projects.
+
+**Link(s) to work:**  
+[Last Commit - Local Library](https://github.com/mattchere/locallibrary/commit/c53fe862634f81efa0a28e79c70ef7ba0c2b0437)   
