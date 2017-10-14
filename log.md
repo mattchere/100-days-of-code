@@ -651,3 +651,13 @@ N/A
 
 **Link(s) to work:**  
 [Last Commit - Local Library](https://github.com/mattchere/locallibrary/commit/c53fe862634f81efa0a28e79c70ef7ba0c2b0437)   
+
+### Day 69: October 14, 2017
+
+**Today's Progress:** Worked on Local Library
+
+**Thoughts:** Learnt a lot about customising the admin site for Django. I feel much more confident with models and the admin site!
+
+**Link(s) to work:**  
+[Last Commit - Local Library](https://github.com/mattchere/locallibrary/commit/5fddbb7579daf9cb2f913bdcb36494980651e28c)   
+[Mozilla Django Tutorial Part 4](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Admin_site)   
