@@ -661,3 +661,22 @@ N/A
 **Link(s) to work:**  
 [Last Commit - Local Library](https://github.com/mattchere/locallibrary/commit/5fddbb7579daf9cb2f913bdcb36494980651e28c)   
 [Mozilla Django Tutorial Part 4](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Admin_site)   
+
+### Day 70: October 15, 2017
+
+**Today's Progress:** None
+
+**Thoughts:** Missed another day! Will work on this tomorrow.
+
+**Link(s) to work:**   
+N/A   
+
+### Day 71: October 16, 2017
+
+**Today's Progress:** Worked on Local Library
+
+**Thoughts:** Worked on url mapping, the index view function, the base generic HTML template, and the index template representing the home page of the Local Library. This seems pretty intuitive so far, I think I'm understanding how to handle urls, views and templates.
+
+**Link(s) to work:**  
+[Last Commit - Local Library](https://github.com/mattchere/locallibrary/commit/ca38b3038f15ca0232bbaff80e11413e097ce6ef)   
+[Mozilla Django Tutorial Part 4](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Home_page)   
