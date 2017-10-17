@@ -679,4 +679,14 @@ N/A
 
 **Link(s) to work:**  
 [Last Commit - Local Library](https://github.com/mattchere/locallibrary/commit/ca38b3038f15ca0232bbaff80e11413e097ce6ef)   
-[Mozilla Django Tutorial Part 4](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Home_page)   
+[Mozilla Django Tutorial Part 5](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Home_page)   
+
+### Day 72: October 17, 2017
+
+**Today's Progress:** Worked on Local Library
+
+**Thoughts:** Did the list and detail views for books and authors. This was pretty fun to do, especially considering I had to figure out authors list and detail views based on the book views. I definitely feel much more confident in using Django now, I can see how the models, urls, templates and views all fit together much more clearly and I'm confident that once I finish this tutorial I can definitely start getting a site up and running.
+
+**Link(s) to work:**  
+[Last Commit - Local Library](https://github.com/mattchere/locallibrary/commit/0a6daac5727fa955a55cb09ab6dc5bdc0ba93f81)   
+[Mozilla Django Tutorial Part 6](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Generic_views)   
