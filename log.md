@@ -690,3 +690,33 @@ N/A
 **Link(s) to work:**  
 [Last Commit - Local Library](https://github.com/mattchere/locallibrary/commit/0a6daac5727fa955a55cb09ab6dc5bdc0ba93f81)   
 [Mozilla Django Tutorial Part 6](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Generic_views)   
+
+### Day 73: October 18, 2017
+
+**Today's Progress:** Worked on Local Library
+
+**Thoughts:** Learnt about the sessions framework and how it links to the client's browser. Then, I worked on having Users and logins, and created a View for Users to view their borrowed books. This was great to learn about a fundamental concept in most websites - user accounts - and to build something functional!
+
+**Link(s) to work:**  
+[Last Commit - Local Library](https://github.com/mattchere/locallibrary/commit/fd8a9e5aa5b5dacf5f041bb6682740527b294234)   
+[Mozilla Django Tutorial Part 7](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Sessions)   
+[Mozilla Django Tutorial Part 8](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Authentication)   
+
+### Day 74: October 19, 2017
+
+**Today's Progress:** None
+
+**Thoughts:** Missed another day :(
+
+**Link(s) to work:**  
+N/A
+
+### Day 75: October 20, 2017
+
+**Today's Progress:** Worked on Local Library
+
+**Thoughts:** This time I got the challenge done, which was to create a view for librarians where only those Users who had a particular permission could view this page. The page itself contained a list of all the borrowed books from the library, along with their associated due date and borrower. This was pretty fun to do and great to apply the knowledge I had learnt from User accounts.
+
+**Link(s) to work:**  
+[Last Commit - Local Library](https://github.com/mattchere/locallibrary/commit/3beb2e195baa2a6b71cf6c99ca73bad2215476ff)   
+[Mozilla Django Tutorial Part 8](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Authentication)   
