@@ -720,3 +720,12 @@ N/A
 **Link(s) to work:**  
 [Last Commit - Local Library](https://github.com/mattchere/locallibrary/commit/3beb2e195baa2a6b71cf6c99ca73bad2215476ff)   
 [Mozilla Django Tutorial Part 8](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Authentication)   
+### Day 76: October 21, 2017
+
+**Today's Progress:** Worked on Local Library
+
+**Thoughts:** Worked on forms for renewing book instances, as well as a UI for creating, updating and deleting both books and authors. This was a super useful one simply due to the power of forms and how common they are in a general website.
+
+**Link(s) to work:**  
+[Last Commit - Local Library](https://github.com/mattchere/locallibrary/commit/0ae4eb5dce8c049c5877459aa6188d4fae0c02c0)   
+[Mozilla Django Tutorial Part 8](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Forms)   
