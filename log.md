@@ -729,3 +729,13 @@ N/A
 **Link(s) to work:**  
 [Last Commit - Local Library](https://github.com/mattchere/locallibrary/commit/0ae4eb5dce8c049c5877459aa6188d4fae0c02c0)   
 [Mozilla Django Tutorial Part 8](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Forms)   
+
+### Day 77: October 22, 2017
+
+**Today's Progress:** Worked on Local Library
+
+**Thoughts:** Wrote lots of tests for the models, forms and views of the site. I can definitely see the benefits of tests, and this tutorial particularly cleared up exactly how to test forms, which I wasn't really sure how to do before this.
+
+**Link(s) to work:**  
+[Last Commit - Local Library](https://github.com/mattchere/locallibrary/commit/8e7cd5c427975e2da60854cd5de2bba2e12a0cef)   
+[Mozilla Django Tutorial Part 8](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Testing)   
