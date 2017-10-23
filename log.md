@@ -739,3 +739,13 @@ N/A
 **Link(s) to work:**  
 [Last Commit - Local Library](https://github.com/mattchere/locallibrary/commit/8e7cd5c427975e2da60854cd5de2bba2e12a0cef)   
 [Mozilla Django Tutorial Part 8](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Testing)   
+
+### Day 78: October 23, 2017
+
+**Today's Progress:** Worked on Local Library
+
+**Thoughts:** Wrote the tests for one of the views myself for the challenge. It wasn't too difficult, but definitely gave me a lot of clarity in terms of how to write tests and what tests to write as well.
+
+**Link(s) to work:**  
+[Last Commit - Local Library](https://github.com/mattchere/locallibrary/commit/16b7564ac7ed43c3d3617573ce4b0ce0108ff7c8)   
+[Mozilla Django Tutorial Part 8](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Testing)   
