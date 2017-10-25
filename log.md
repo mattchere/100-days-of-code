@@ -749,3 +749,22 @@ N/A
 **Link(s) to work:**  
 [Last Commit - Local Library](https://github.com/mattchere/locallibrary/commit/16b7564ac7ed43c3d3617573ce4b0ce0108ff7c8)   
 [Mozilla Django Tutorial Part 8](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Testing)   
+
+### Day 79: October 24, 2017
+
+**Today's Progress:** None
+
+**Thoughts:** I got really sick today and missed another day. Tomorrow I should be done with the tutorial though!
+
+**Link(s) to work:**  
+N/A
+
+### Day 78: October 23, 2017
+
+**Today's Progress:** Worked on Local Library
+
+**Thoughts:** Did all the deployment work for the local library, which completes the whole tutorial! It took me a long time to get through it, but it was definitely comprehensive and informative enough for me to be able to make something on my own. I think I'll still continue with the Mozilla final project just to confirm that I can do it alone.
+
+**Link(s) to work:**  
+[Last Commit - Local Library](https://github.com/mattchere/locallibrary/commit/584f365fbd1da794f80fa1a3a614e649a44c8456)   
+[Mozilla Django Tutorial Part 8](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Deployment)   
