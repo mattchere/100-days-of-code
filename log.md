@@ -759,9 +759,9 @@ N/A
 **Link(s) to work:**  
 N/A
 
-### Day 78: October 23, 2017
+### Day 80: October 25, 2017
 
-**Today's Progress:** Worked on Local Library
+**Today's Progress:** Finished Local Library
 
 **Thoughts:** Did all the deployment work for the local library, which completes the whole tutorial! It took me a long time to get through it, but it was definitely comprehensive and informative enough for me to be able to make something on my own. I think I'll still continue with the Mozilla final project just to confirm that I can do it alone.
 
