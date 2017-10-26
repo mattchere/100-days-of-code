@@ -768,3 +768,12 @@ N/A
 **Link(s) to work:**  
 [Last Commit - Local Library](https://github.com/mattchere/locallibrary/commit/584f365fbd1da794f80fa1a3a614e649a44c8456)   
 [Mozilla Django Tutorial Part 8](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Deployment)   
+
+### Day 81: October 26, 2017
+
+**Today's Progress:** Worked on Miniblog
+
+**Thoughts:** Started a new project to make a mini blog site with Django. This should help me to see if I have really learnt Django and can move on to bigger projects with it. I just worked on the models today and it seems manageable right now, so I'm pretty excited to put my learnings to use and get this site functional!
+
+**Link(s) to work:**  
+[Last Commit - Miniblog](https://github.com/mattchere/miniblog/commit/8e071887a78fcd89c577f8e29dd31e28e55eeaf1)      
