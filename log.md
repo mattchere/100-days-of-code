@@ -777,3 +777,12 @@ N/A
 
 **Link(s) to work:**  
 [Last Commit - Miniblog](https://github.com/mattchere/miniblog/commit/8e071887a78fcd89c577f8e29dd31e28e55eeaf1)      
+
+### Day 82: October 27, 2017
+
+**Today's Progress:** Worked on Miniblog
+
+**Thoughts:** Worked on getting the homepage up and running. I feel like I'm still a bit too reliant on the old project, but I'm hoping I'll learn it over time.
+
+**Link(s) to work:**  
+[Last Commit - Miniblog](https://github.com/mattchere/miniblog/commit/638eb78a8faec95644396f0e55d73ff4a71aa5e6)      
