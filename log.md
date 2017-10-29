@@ -795,3 +795,12 @@ N/A
 
 **Link(s) to work:**  
 [Last Commit - Miniblog](https://github.com/mattchere/miniblog/commit/871db36ea78134d82e183ba77a456241781020fd)      
+
+### Day 84: October 29, 2017
+
+**Today's Progress:** Worked on Miniblog
+
+**Thoughts:** Implemented all the user account related stuff, ready to make the permission pages and all the comment related stuff too.
+
+**Link(s) to work:**  
+[Last Commit - Miniblog](https://github.com/mattchere/miniblog/commit/ca81e91d0b3511efa4cceb0c30d94918d302fe3a)      
