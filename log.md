@@ -804,3 +804,12 @@ N/A
 
 **Link(s) to work:**  
 [Last Commit - Miniblog](https://github.com/mattchere/miniblog/commit/ca81e91d0b3511efa4cceb0c30d94918d302fe3a)      
+
+### Day 85: October 30, 2017
+
+**Today's Progress:** Worked on Miniblog
+
+**Thoughts:** Worked with comments and added them to the blog post detail view with the correct ordering. Next I'll need to add the create comment page and add a link to that and I think I'll almost be done with the basic functionality!
+
+**Link(s) to work:**  
+[Last Commit - Miniblog](https://github.com/mattchere/miniblog/commit/239d379765f49559d5bb37eef0900e79e42c10f0)      
