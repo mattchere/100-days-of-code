@@ -813,3 +813,12 @@ N/A
 
 **Link(s) to work:**  
 [Last Commit - Miniblog](https://github.com/mattchere/miniblog/commit/239d379765f49559d5bb37eef0900e79e42c10f0)      
+
+### Day 86: October 31, 2017
+
+**Today's Progress:** Worked on Miniblog
+
+**Thoughts:** Finished all the basic functionality of the blog! Users can view lists of all blog posts and bloggers, as well as detail pages for both of these. If they are logged in, they can also comment on the posts. I just need to polish up the site to make sure I have met all the requirements, then add some tests and I should be done with it and ready to move on to my own projects.
+
+**Link(s) to work:**  
+[Last Commit - Miniblog](https://github.com/mattchere/miniblog/commit/c0f002e7fb329b3c62dc838f8e2c6cfe2241bc5e)      
