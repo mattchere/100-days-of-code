@@ -822,3 +822,21 @@ N/A
 
 **Link(s) to work:**  
 [Last Commit - Miniblog](https://github.com/mattchere/miniblog/commit/c0f002e7fb329b3c62dc838f8e2c6cfe2241bc5e)      
+
+### Day 87: November 1, 2017
+
+**Today's Progress:** None
+
+**Thoughts:** Missed another day. It's coming to exam time for my uni studies so I might be missing a few days here and there. I'll definitely make sure not to miss more than one day at a time, and I'll be making up for all the days I missed throughout once I've past day 100.
+
+**Link(s) to work:**  
+N/A  
+
+### Day 88: November 2, 2017
+
+**Today's Progress:** Worked on Miniblog
+
+**Thoughts:** Wrote the tests for two of the models, and will be doing the tests for the third, as well as the views, in the next one.
+
+**Link(s) to work:**  
+[Last Commit - Miniblog](https://github.com/mattchere/miniblog/commit/c8a92f507e61ee722a56231f03252b3bf82cc35d)      
