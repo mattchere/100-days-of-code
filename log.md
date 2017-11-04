@@ -840,3 +840,19 @@ N/A
 
 **Link(s) to work:**  
 [Last Commit - Miniblog](https://github.com/mattchere/miniblog/commit/c8a92f507e61ee722a56231f03252b3bf82cc35d)      
+### Day 89: November 3, 2017
+
+**Today's Progress:** Worked on Miniblog
+
+**Thoughts:** Wrote the comment tests today.
+
+**Link(s) to work:**  
+[Last Commit - Miniblog](https://github.com/mattchere/miniblog/commit/8de98d8f99677cd85f6f054159867e4bc6223c81)      
+### Day 90: November 4, 2017
+
+**Today's Progress:** Worked on Miniblog
+
+**Thoughts:** Wrote tests for the blogger list view.
+
+**Link(s) to work:**  
+[Last Commit - Miniblog](https://github.com/mattchere/miniblog/commit/c38fc4c0acf67de0f3d9c4994bc17e0cb602aed0)      
