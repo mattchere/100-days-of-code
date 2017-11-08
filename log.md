@@ -874,3 +874,20 @@ N/A
 
 **Link(s) to work:**  
 [Last Commit - Miniblog](https://github.com/mattchere/miniblog/commit/9445aae992f29b27a3c10ec32d04031716c9f003)      
+### Day 93: November 7, 2017
+
+**Today's Progress:** None
+
+**Thoughts:** Another missed day.
+
+**Link(s) to work:**  
+N/A
+
+### Day 94: November 8, 2017
+
+**Today's Progress:** Worked on Miniblog
+
+**Thoughts:** Added some more tests. I'm still working on view tests, and added more tests for the blog post list view.
+
+**Link(s) to work:**  
+[Last Commit - Miniblog](https://github.com/mattchere/miniblog/commit/663380d9552f581e48a9171b476bf874e71a6f53)      
