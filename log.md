@@ -891,3 +891,12 @@ N/A
 
 **Link(s) to work:**  
 [Last Commit - Miniblog](https://github.com/mattchere/miniblog/commit/663380d9552f581e48a9171b476bf874e71a6f53)      
+
+### Day 95: November 9, 2017
+
+**Today's Progress:** Worked on Bets
+
+**Thoughts:** I decided that I would move on now. The tutorial for me was just to be able to get a proper grasp on how to use Django, and now I feel that I have that grasp, I figured I would move on to my own projects and learn through that. The new project is a bets website, where you can log in, make bets with other users and see those bets. It's simple, but I'm hoping it'll be great anyways! Just worked on boilerplate for now, and I'm going to try to write the tests first to practice TDD.
+
+**Link(s) to work:**  
+[Last Commit - Bets](https://github.com/mattchere/letsmakebets/commit/af2fa2ac72998f6a8aa39ccf78005dbf4507d492)      
