@@ -900,3 +900,21 @@ N/A
 
 **Link(s) to work:**  
 [Last Commit - Bets](https://github.com/mattchere/letsmakebets/commit/af2fa2ac72998f6a8aa39ccf78005dbf4507d492)      
+
+### Day 96: November 10, 2017
+
+**Today's Progress:** None
+
+**Thoughts:** Missed a day.
+
+**Link(s) to work:**  
+N/A   
+
+### Day 97: November 11, 2017
+
+**Today's Progress:** Worked on Bets
+
+**Thoughts:** Wrote some tests for my other two models, Bettor and Taker, and wrote all the models (Bet, Bettor, Taker). Next will be to implement some views so that things can actually happen.
+
+**Link(s) to work:**  
+[Last Commit - Bets](https://github.com/mattchere/letsmakebets/commit/753b79fa0fe3ca956fedce851e84755b0464ce3c)      
