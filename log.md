@@ -918,3 +918,22 @@ N/A
 
 **Link(s) to work:**  
 [Last Commit - Bets](https://github.com/mattchere/letsmakebets/commit/753b79fa0fe3ca956fedce851e84755b0464ce3c)      
+
+### Day 98: November 12, 2017
+
+**Today's Progress:** None
+
+**Thoughts:** Missed another day, but it'll be the last I miss!
+
+**Link(s) to work:**  
+[Last Commit - Bets]
+N/A    
+
+### Day 99: November 13, 2017
+
+**Today's Progress:** Worked on Bets
+
+**Thoughts:** Started to work on my views, getting both the list view and the homepage up. Did some styling and it seems to be working right now. I think I need to sketch out more exactly how this is going to work and then I'll see if I can build then minimum features.
+
+**Link(s) to work:**  
+[Last Commit - Bets](https://github.com/mattchere/letsmakebets/commit/2471670ac051d2e22deecfc452f83d4c8dc789ca)      
