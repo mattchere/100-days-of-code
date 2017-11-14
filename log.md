@@ -937,3 +937,12 @@ N/A
 
 **Link(s) to work:**  
 [Last Commit - Bets](https://github.com/mattchere/letsmakebets/commit/2471670ac051d2e22deecfc452f83d4c8dc789ca)      
+
+### Day 100: November 13, 2017
+
+**Today's Progress:** Worked on Bets
+
+**Thoughts:** Worked on the bet detail page, and modified some user related things. I'm trying to get all the login pages done now as well so that I can have user login features. It's finally day 100! I did miss 11 days though, so it means my challenge will only truly end on day 111. I think that's a fitting day to end the challenge. I won't be missing any more days because I'm done with all my commitments for the year, so looking forward to making some real progress.
+
+**Link(s) to work:**  
+[Last Commit - Bets](https://github.com/mattchere/letsmakebets/commit/d34ffbc98022250eb9352ccddb63a5f25a92ab6a)      
