@@ -946,3 +946,12 @@ N/A
 
 **Link(s) to work:**  
 [Last Commit - Bets](https://github.com/mattchere/letsmakebets/commit/d34ffbc98022250eb9352ccddb63a5f25a92ab6a)      
+
+### Day 101: November 14, 2017
+
+**Today's Progress:** Worked on Tomatoapp
+
+**Thoughts:** So I've looked at how many days I have left and I see that it's not really a lot, so I've decided to switch it up again. From the beginning of this challenge, I have wanted to learn enough to create a pomodoro tracking app, and that's what I'm going to be working on for the rest of this challenge. I worked on the models, homepage and default auth views, hoping to be able to get up basic functionality in a few days time.
+
+**Link(s) to work:**  
+[Last Commit - Bets](https://github.com/mattchere/tomato-app/commit/2698cafb3cd795fa81aad80befd978bc035d81c4)      
