@@ -949,9 +949,18 @@ N/A
 
 ### Day 101: November 14, 2017
 
-**Today's Progress:** Worked on Tomatoapp
+**Today's Progress:** Worked on Tomato App
 
 **Thoughts:** So I've looked at how many days I have left and I see that it's not really a lot, so I've decided to switch it up again. From the beginning of this challenge, I have wanted to learn enough to create a pomodoro tracking app, and that's what I'm going to be working on for the rest of this challenge. I worked on the models, homepage and default auth views, hoping to be able to get up basic functionality in a few days time.
 
 **Link(s) to work:**  
-[Last Commit - Bets](https://github.com/mattchere/tomato-app/commit/2698cafb3cd795fa81aad80befd978bc035d81c4)      
+[Last Commit - Tomato App](https://github.com/mattchere/tomato-app/commit/2698cafb3cd795fa81aad80befd978bc035d81c4)      
+
+### Day 102: November 15, 2017
+
+**Today's Progress:** Worked on Tomato App
+
+**Thoughts:** I worked on the tracker page for the tomato app. I spent most of my time planning out the project and thinking about how the user experience will work, and I'm hoping that tomorrow I'll be able to flesh out most of the ideas and get something working.
+
+**Link(s) to work:**  
+[Last Commit - Tomato App](https://github.com/mattchere/tomato-app/commit/4843ce86854f85c768c965c2e33f84b08b2a2cb8)      
