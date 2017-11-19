@@ -938,7 +938,7 @@ N/A
 **Link(s) to work:**  
 [Last Commit - Bets](https://github.com/mattchere/letsmakebets/commit/2471670ac051d2e22deecfc452f83d4c8dc789ca)      
 
-### Day 100: November 13, 2017
+### Day 100: November 14, 2017
 
 **Today's Progress:** Worked on Bets
 
@@ -947,20 +947,48 @@ N/A
 **Link(s) to work:**  
 [Last Commit - Bets](https://github.com/mattchere/letsmakebets/commit/d34ffbc98022250eb9352ccddb63a5f25a92ab6a)      
 
-### Day 101: November 14, 2017
+### Day 101: November 15, 2017
 
 **Today's Progress:** Worked on Tomato App
 
 **Thoughts:** So I've looked at how many days I have left and I see that it's not really a lot, so I've decided to switch it up again. From the beginning of this challenge, I have wanted to learn enough to create a pomodoro tracking app, and that's what I'm going to be working on for the rest of this challenge. I worked on the models, homepage and default auth views, hoping to be able to get up basic functionality in a few days time.
 
 **Link(s) to work:**  
-[Last Commit - Tomato App](https://github.com/mattchere/tomato-app/commit/2698cafb3cd795fa81aad80befd978bc035d81c4)      
+[Last Commit - Tomato App](https://github.com/mattchere/tomato-app-old/commit/2698cafb3cd795fa81aad80befd978bc035d81c4)      
 
-### Day 102: November 15, 2017
+### Day 102: November 16, 2017
 
 **Today's Progress:** Worked on Tomato App
 
 **Thoughts:** I worked on the tracker page for the tomato app. I spent most of my time planning out the project and thinking about how the user experience will work, and I'm hoping that tomorrow I'll be able to flesh out most of the ideas and get something working.
 
 **Link(s) to work:**  
-[Last Commit - Tomato App](https://github.com/mattchere/tomato-app/commit/4843ce86854f85c768c965c2e33f84b08b2a2cb8)      
+[Last Commit - Tomato App](https://github.com/mattchere/tomato-app-old/commit/4843ce86854f85c768c965c2e33f84b08b2a2cb8)      
+
+### Day 103: November 17, 2017
+
+**Today's Progress:** Worked on Tomato App
+
+**Thoughts:** Linked the CSS and JS for the tracker part so that works with most functionality (haven't linked it to the database yet though). I also created the countdown page that lists all the deadlines that are being tracked, as well as a modal to add countdowns. I'll need to modify this page to be linked to user accounts soon, but I will do that tomorrow.
+
+**Link(s) to work:**  
+[Last Commit - Tomato App](https://github.com/mattchere/tomato-app-old/commit/4843ce86854f85c768c965c2e33f84b08b2a2cb8)      
+
+### Day 104: November 18, 2017
+
+**Today's Progress:** Worked on Tomato App
+
+**Thoughts:** Extended the countdown page to have countdown deadlines linked to user accounts, so that each user, when logged in, can only see their own countdowns, and not anyone elses. I have been finding a few bugs here and there that I am intending to fix next.
+
+**Link(s) to work:**  
+[Last Commit - Tomato App](https://github.com/mattchere/tomato-app-old/commit/e7e7aea093968c48fc7995e73201d5a22ace0a11)      
+
+### Day 105: November 19, 2017
+
+**Today's Progress:** Worked on Tomato App
+
+**Thoughts:** I decided to start over today. I realised that there were a lot of things that were much more difficult to do if I was coupling the front and back end, particularly with my desire to create a web-app like experience. So I decided I'd rebuild it with a separate back-end and front-end. The back-end will still use Django, but will also use Django Rest Framework (DRF) for its API. The front-end will separately use the API to present to the client. I'm planning to build the front-end initially in just JavaScript and jQuery, but with the intention to port it to React at some point in the future. Hopefully it makes it a lot easier for me to do what I want with the website. I completed the DRF tutorial, and then built a super basic API with user authentication and the ability to create Countdowns and Tomatoes, which are linked to users. I'm a bit stuck with TokenAuthentication and trying to link the front-end with the back-end, but I guess that's something I should be more concerned about when I actually have a front-end to link to.
+
+**Link(s) to work:**  
+[DRF Tutorial](http://www.django-rest-framework.org/tutorial/1-serialization/)   
+[Last Commit - Tomato App](https://github.com/mattchere/tomato-app/commit/3247823aab5ab2251e4b5f3f115e267168977a9a)      
