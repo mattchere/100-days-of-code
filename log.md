@@ -992,3 +992,12 @@ N/A
 **Link(s) to work:**  
 [DRF Tutorial](http://www.django-rest-framework.org/tutorial/1-serialization/)   
 [Last Commit - Tomato App](https://github.com/mattchere/tomato-app/commit/3247823aab5ab2251e4b5f3f115e267168977a9a)      
+
+### Day 106: November 20, 2017
+
+**Today's Progress:** Worked on Tomato App
+
+**Thoughts:** I added permissions so that logged in users can only see their own user information. I also added the an API endpoint for users so that users can view their own user information. I'm hoping that this is enough of the back-end to start working on the front-end and figure out how to link them afterwards.
+
+**Link(s) to work:**  
+[Last Commit - Tomato App](https://github.com/mattchere/tomato-app/commit/5d04ec85b70f0d2b3bcf1b3f731f3a42de0e8963)      
