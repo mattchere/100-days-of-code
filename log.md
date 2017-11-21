@@ -1001,3 +1001,12 @@ N/A
 
 **Link(s) to work:**  
 [Last Commit - Tomato App](https://github.com/mattchere/tomato-app/commit/5d04ec85b70f0d2b3bcf1b3f731f3a42de0e8963)      
+
+### Day 107: November 21, 2017
+
+**Today's Progress:** Worked on Tomato App
+
+**Thoughts:** Made some minor changes to viewsets today to clean up the code in general. I spent most of my time learning more about DRF through a treehouse course, so that I understand more about how to use it properly. It looks like I will just create the front-end on the same domain for now, and use Django's built-in session authentication and see how it goes tomorrow. Hopefully I can get something functional up and running.
+
+**Link(s) to work:**  
+[Last Commit - Tomato App](https://github.com/mattchere/tomato-app/commit/cadd4ff58a39026fe2150fc3c2a199b859e43456)      
