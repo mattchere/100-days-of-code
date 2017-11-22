@@ -1010,3 +1010,12 @@ N/A
 
 **Link(s) to work:**  
 [Last Commit - Tomato App](https://github.com/mattchere/tomato-app/commit/cadd4ff58a39026fe2150fc3c2a199b859e43456)      
+
+### Day 108: November 22, 2017
+
+**Today's Progress:** Worked on Tomato App
+
+**Thoughts:** Spent a long time today working out user authentication and using session authentication to create new tomatoes once the timer is complete. I also created all the login templates. Now I need to work on the countdown page, link that to the API and I'll have built the main two apps that I need (without the styling and polish that is soon to come).
+
+**Link(s) to work:**  
+[Last Commit - Tomato App](https://github.com/mattchere/tomato-app/commit/27fcd3a43f3e196e8a215c37d2ddaa016f1479d8)      
